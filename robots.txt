@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://asaseura.github.io/Cub/sitemap_index.txt
+Sitemap: https://asaseura.github.io/Qyt/sitemap_index.txt
+Sitemap: https://asaseura.github.io/YFW/sitemap_index.txt
+Sitemap: https://asaseura.github.io/jkV/sitemap_index.txt
